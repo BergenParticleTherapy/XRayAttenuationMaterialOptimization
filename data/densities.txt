@@ -1,0 +1,15 @@
+Element;Density [g/cm3]
+Antimony;6.684
+Bismuth;9.75
+Barium;3.59
+Lead;11.35
+Tin;7.31
+Tungsten;19.35
+Aluminum;2.702
+Carbon;2.26
+Copper;8.96
+Molybdenum;10.22
+Iodine;4.93
+Gadolinium;7.895
+Gold;19.32
+Tantalum;16.65
